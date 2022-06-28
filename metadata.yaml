@@ -8,7 +8,12 @@ contributor:
     gutenberg_agent_id: '54652'
     url: http://www.gutenberg.org/2009/agents/54652
     wikipedia: https://en.wikipedia.org/wiki/Wilhelmina_Harper
+covers:
+- cover_type: archival
+  image_path: 68278-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68278#Off-duty-A-dozen-yarns-for-soldiers-and-sailors
 gutenberg_issued: '2022-06-10'
 identifiers:
   gutenberg: '68278'
